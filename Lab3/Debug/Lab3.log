@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(76,5): warning : Access to the path 'h:\repository332\labtres\lab3\debug\lab3.exe' is denied.
+  gamepieces.cpp
+  Lab2.cpp
+  TicTacToeGame.cpp
+  Generating Code...
+  Lab3.vcxproj -> H:\repository332\LabTres\Lab3\Debug\Lab3.exe
